@@ -1,8 +1,11 @@
-- slug: design
-  name: Design
+- slug: open-source
+  name: Open Source
 
-- slug: tools
-  name: Tools
+- slug: startup-ideas
+  name: Startup Ideas
 
-- slug: productivity
-  name: Productivity
+- slug: bookmarks
+  name: Bookmarks
+
+- slug: rest-of-the-stuff
+  name: Rest of the stuff
