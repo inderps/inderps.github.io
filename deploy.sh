@@ -8,6 +8,7 @@ rm -rf build/bundle.js || exit 0;
 npm run deploy
 
 # go to the out directory and create a *new* Git repo
+
 cd build
 git init
 
